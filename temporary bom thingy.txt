@@ -9,7 +9,7 @@ Non-PCB Parts
 30mm EDFs (depends on what produces more thrust)
 LW-PLA (if no one has that)
 2205 motors 
-4S LiPo Battery (650mAH)
+4S LiPo Battery (650mAH) Tattu-R Line battery
 3 tires (probably Lego lol)
 
 TODO:
